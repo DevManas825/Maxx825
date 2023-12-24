@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Maxx825
+- 👋 Hi, I’m Manas
 - 👀 I’m interested in Games and Code
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C 
 - 📫 How to reach me 📧
-- My mail - indu.gsv@gmail.com
+- My mail - Manas.flying@gmail.com
 
 <!---
 Maxx825/Maxx825 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
